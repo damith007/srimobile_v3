@@ -1,3 +1,4 @@
+<img src="https://github.com/damith007/srimobile_v3/blob/main/Capture.PNG?raw=true">
 The SriMobile Community platform represents a significant case study in the rapid evolution of mobile-web architecture during the late 2000s. Originally deployed in 2009 under the domain srimobile.net, the script served as a specialized community management system tailored for the constraints of early mobile internet environments.
 
 Technical Architecture and Historical Progression
